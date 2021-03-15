@@ -16,6 +16,7 @@ table.center {
 
 /* Establecemos el formato para h2, h3, h4 y p */
 
+h1 {color:white;}
 h2 {color:yellow;}
 h3 {color:green;}
 h4 {color:silver;}
