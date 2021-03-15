@@ -4,8 +4,10 @@
 body{
 background-size:cover; /*Que la imagen ocupe toda la página*/
 /*Añadimos transparencia a la imagen de fondo*/
-background-image: linear-gradient(to bottom, rgba(0,0,0,0.9) 0%,rgba(0,0,0,0.9) 100%), url(../figuras/applebg.jpg);
-}
+background-image: rgba(255,255,255,0), rgba(255,255,255,1))
+ }  
+
+
 
 /* Definimos la clase 'center' para las tablas*/
 
