@@ -1,13 +1,10 @@
-
 /* Hacemos que el 'body' tenga una imagen de fondo*/
 
 body{
 background-size:cover; /*Que la imagen ocupe toda la página*/
 /*Añadimos transparencia a la imagen de fondo*/
 background-image: linear-gradient(to bottom, rgba(0,0,0,0.9) 0%,rgba(0,0,0,0.9) 100%), url(../figuras/applebg.jpg);
- }  
-
-
+}
 
 /* Definimos la clase 'center' para las tablas*/
 
@@ -16,24 +13,10 @@ table.center {
     margin-right:auto;
   }
 
-image.center {
-    margin-left:auto; 
-    margin-right:auto;
-  }
-
 /* Establecemos el formato para h2, h3, h4 y p */
 
-h1 {color:white;}
-h2 {color:yellow;}
+h1 {color:yellow}
+h2 {color:white}
 h3 {color:green;}
-h4 {color:silver;}
-p {color:white; font-size:14pt; font-family:"Verdana",sans-serif;}
-
-
-
-
-
-
-
-
-
+h4 {color:blue;}
+p {color:white; font-size:14pt; font-family:"Trebuchet MS",sans-serif;}
